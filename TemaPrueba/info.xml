@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource name="Neo" version="1.0" description="NeoTemaPokeMMO" author="Neo">
+    <themes>
+        <theme path="data/" name="Neo_Theme" is_mobile="false"/>
+    </themes>
+    <strings string_revision="1">
+        <string path="data/colors/color_es.xml"/>
+        <string path="data/colors/color_en.xml"/>
+        <string path="data/colors/color_de.xml"/>
+        <string path="data/colors/color_fr.xml"/>
+        <string path="data/colors/color_it.xml"/>
+        <string path="data/colors/color_ja.xml"/>
+        <string path="data/colors/color_ko.xml"/>
+        <string path="data/colors/color_pl.xml"/>
+        <string path="data/colors/color_pt-BR.xml"/>
+        <string path="data/colors/color_zh-Hant.xml"/>
+        <string path="data/colors/color_zh.xml"/>
+    </strings>
+
+</resource>
